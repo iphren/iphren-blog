@@ -1,0 +1,31 @@
+baseURL = 'https://blog.iphren.com/'
+theme = 'hugo-coder'
+copyright = 'Iphren'
+defaultContentLanguage = 'zh-cn'
+languageCode = 'zh-cn'
+paginate = 20
+
+[languages]
+    [languages.zh-cn]
+        languageName = '简体中文'
+        title = 'Iphren 博客'
+        weight = 1
+        [languages.zh-cn.params]
+            info = '学无止境'
+            description = 'Iphren的学习记录'
+    [languages.en]
+        languageName = 'English'
+        title = 'Iphren Blog'
+        weight = 2
+        [languages.en.params]
+            info = 'Learning makes one happy.'
+            description = 'Iphren’s study history'
+
+[params]
+    author = 'Iphren'
+    keywords = 'blog,developer,website,software,fullstack,frontend,backend,angular,kubernetes,iphren'
+    avatarURL = 'images/iphren-tech-logo-nobg.png'
+    favicon_32 = 'images/favicon-32x32.png'
+    favicon_16 = 'images/favicon-16x16.png'
+    touchIcon = 'images/apple-touch-icon.png'
+    since = '2021'
