@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iphren 博客</title>
+    <link>https://blog.iphren.com/</link>
+    <description>Recent content on Iphren 博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Iphren</copyright><atom:link href="https://blog.iphren.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

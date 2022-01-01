@@ -4,6 +4,8 @@ copyright = 'Iphren'
 defaultContentLanguage = 'zh-cn'
 languageCode = 'zh-cn'
 paginate = 20
+hasCJKLanguage = true
+enableGitInfo = true
 
 [languages]
     [languages.zh-cn]
@@ -29,3 +31,5 @@ paginate = 20
     favicon_16 = 'images/favicon-16x16.png'
     touchIcon = 'images/apple-touch-icon.png'
     since = '2021'
+    commit = 'https://github.com/iphren/iphren-blog/commit'
+    colorScheme = 'auto'
